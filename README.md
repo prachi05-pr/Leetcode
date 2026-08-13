@@ -6,6 +6,7 @@ My_problem solving skills
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -13,6 +14,7 @@ My_problem solving skills
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachi05-pr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -22,11 +24,13 @@ My_problem solving skills
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 ## String
 |  |
@@ -39,9 +43,14 @@ My_problem solving skills
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

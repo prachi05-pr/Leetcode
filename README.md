@@ -63,6 +63,7 @@ My_problem solving skills
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -71,6 +72,7 @@ My_problem solving skills
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
@@ -79,6 +81,7 @@ My_problem solving skills
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Design
 |  |

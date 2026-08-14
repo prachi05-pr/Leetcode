@@ -10,6 +10,7 @@ My_problem solving skills
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachi05-pr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -72,4 +73,20 @@ My_problem solving skills
 |  |
 | ------- |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

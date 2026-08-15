@@ -83,6 +83,7 @@ My_problem solving skills
 | ------- |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Design
 |  |
 | ------- |
@@ -108,4 +109,20 @@ My_problem solving skills
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->

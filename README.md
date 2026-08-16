@@ -10,6 +10,7 @@ My_problem solving skills
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/prachi05-pr/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prachi05-pr/Leetcode/tree/master/0860-lemonade-change) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -65,6 +66,7 @@ My_problem solving skills
 | ------- |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/prachi05-pr/Leetcode/tree/master/0322-coin-change) |
 ## Trie
 |  |
 | ------- |
@@ -125,4 +127,16 @@ My_problem solving skills
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prachi05-pr/Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prachi05-pr/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prachi05-pr/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

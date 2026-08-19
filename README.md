@@ -24,6 +24,7 @@ My_problem solving skills
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -48,6 +49,7 @@ My_problem solving skills
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 ## Depth-First Search
@@ -62,6 +64,7 @@ My_problem solving skills
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dancing Links
 |  |

@@ -116,6 +116,7 @@ My_problem solving skills
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prachi05-pr/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -168,5 +169,6 @@ My_problem solving skills
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prachi05-pr/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prachi05-pr/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

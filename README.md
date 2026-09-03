@@ -6,6 +6,7 @@ My_problem solving skills
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prachi05-pr/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
@@ -26,6 +27,7 @@ My_problem solving skills
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prachi05-pr/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |

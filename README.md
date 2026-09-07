@@ -105,6 +105,7 @@ My_problem solving skills
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -181,6 +182,7 @@ My_problem solving skills
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prachi05-pr/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prachi05-pr/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/prachi05-pr/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -188,6 +190,7 @@ My_problem solving skills
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/prachi05-pr/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Manacher
 |  |

@@ -55,6 +55,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -80,6 +81,7 @@ My_problem solving skills
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/prachi05-pr/Leetcode/tree/master/0198-house-robber) |
@@ -122,6 +124,7 @@ My_problem solving skills
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prachi05-pr/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prachi05-pr/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
@@ -186,4 +189,8 @@ My_problem solving skills
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prachi05-pr/Leetcode/tree/master/0206-reverse-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

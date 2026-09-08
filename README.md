@@ -7,6 +7,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prachi05-pr/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
@@ -56,6 +57,7 @@ My_problem solving skills
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -92,6 +94,7 @@ My_problem solving skills
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 ## Memoization
 |  |

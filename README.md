@@ -115,6 +115,7 @@ My_problem solving skills
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3870-count-commas-in-range](https://github.com/prachi05-pr/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/prachi05-pr/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prachi05-pr/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |

@@ -11,6 +11,7 @@ My_problem solving skills
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/prachi05-pr/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prachi05-pr/Leetcode/tree/master/0213-house-robber-ii) |
@@ -85,6 +86,7 @@ My_problem solving skills
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/prachi05-pr/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prachi05-pr/Leetcode/tree/master/0213-house-robber-ii) |

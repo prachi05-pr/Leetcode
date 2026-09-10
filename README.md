@@ -8,6 +8,7 @@ My_problem solving skills
 | ------- |
 | [0001-two-sum](https://github.com/prachi05-pr/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachi05-pr/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
@@ -203,4 +204,8 @@ My_problem solving skills
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachi05-pr/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

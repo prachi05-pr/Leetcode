@@ -64,6 +64,7 @@ My_problem solving skills
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prachi05-pr/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
@@ -96,6 +97,7 @@ My_problem solving skills
 | [0322-coin-change](https://github.com/prachi05-pr/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/prachi05-pr/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -140,12 +142,14 @@ My_problem solving skills
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prachi05-pr/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prachi05-pr/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prachi05-pr/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prachi05-pr/Leetcode/tree/master/0860-lemonade-change) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
 | ------- |

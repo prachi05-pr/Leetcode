@@ -97,6 +97,7 @@ My_problem solving skills
 | [0322-coin-change](https://github.com/prachi05-pr/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/prachi05-pr/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prachi05-pr/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
@@ -119,6 +120,7 @@ My_problem solving skills
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/prachi05-pr/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prachi05-pr/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2427-number-of-common-factors](https://github.com/prachi05-pr/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3870-count-commas-in-range](https://github.com/prachi05-pr/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/prachi05-pr/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -135,6 +137,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prachi05-pr/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,4 +222,8 @@ My_problem solving skills
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/prachi05-pr/Leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prachi05-pr/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->

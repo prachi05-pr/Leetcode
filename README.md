@@ -24,6 +24,7 @@ My_problem solving skills
 | [0835-image-overlap](https://github.com/prachi05-pr/Leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/prachi05-pr/Leetcode/tree/master/0860-lemonade-change) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prachi05-pr/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachi05-pr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prachi05-pr/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -37,6 +38,7 @@ My_problem solving skills
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prachi05-pr/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prachi05-pr/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachi05-pr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prachi05-pr/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -81,6 +83,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prachi05-pr/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dancing Links
 |  |
@@ -99,6 +102,7 @@ My_problem solving skills
 | [0416-partition-equal-subset-sum](https://github.com/prachi05-pr/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/prachi05-pr/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prachi05-pr/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prachi05-pr/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
@@ -221,6 +225,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachi05-pr/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prachi05-pr/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Geometry
 |  |
 | ------- |

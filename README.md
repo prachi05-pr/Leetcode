@@ -94,6 +94,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/prachi05-pr/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
@@ -124,6 +125,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/prachi05-pr/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/prachi05-pr/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -235,6 +237,7 @@ My_problem solving skills
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prachi05-pr/Leetcode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prachi05-pr/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## 0-1 Knapsack
 |  |

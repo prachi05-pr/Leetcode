@@ -66,6 +66,7 @@ My_problem solving skills
 | [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -207,6 +208,7 @@ My_problem solving skills
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -243,4 +245,8 @@ My_problem solving skills
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prachi05-pr/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ My_problem solving skills
 | [0051-n-queens](https://github.com/prachi05-pr/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/prachi05-pr/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prachi05-pr/Leetcode/tree/master/0213-house-robber-ii) |
@@ -100,6 +101,7 @@ My_problem solving skills
 | [0062-unique-paths](https://github.com/prachi05-pr/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/prachi05-pr/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prachi05-pr/Leetcode/tree/master/0213-house-robber-ii) |

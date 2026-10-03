@@ -66,6 +66,7 @@ My_problem solving skills
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -98,6 +99,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/prachi05-pr/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prachi05-pr/Leetcode/tree/master/0118-pascals-triangle) |
@@ -213,6 +215,7 @@ My_problem solving skills
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -253,5 +256,6 @@ My_problem solving skills
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

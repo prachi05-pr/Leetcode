@@ -41,6 +41,7 @@ My_problem solving skills
 | [0001-two-sum](https://github.com/prachi05-pr/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/prachi05-pr/Leetcode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prachi05-pr/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachi05-pr/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -72,6 +73,7 @@ My_problem solving skills
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/prachi05-pr/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachi05-pr/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -96,6 +98,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachi05-pr/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/prachi05-pr/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachi05-pr/Leetcode/tree/master/1004-max-consecutive-ones-iii) |

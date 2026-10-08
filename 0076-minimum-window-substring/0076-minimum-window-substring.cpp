@@ -12,14 +12,14 @@ public:
             for(int j=0;j<m;j++){
             mp[t[j]]++;
             }
-          int j=0;
-          int i=0;
+          int right=0;
+          int left=0;
             // for(int j=i;j<n;j++){
-            while(j<n){
-                if(mp[s[j]]>0 )  cnt++;
+            while(right<n){
+                if(mp[s[right]]>0 )  cnt++;
 
-                mp[s[j]]--;
-                j++;
+                mp[s[right]]--;
+               
         //         int len=j-i+1;
         //         if(cnt==m)   {
         //             if(len<mnlen){
@@ -34,21 +34,22 @@ public:
 
          while(cnt == m) {
 
-                int len = j - i;
+                int len = right - left +1;
 
                 if(len < mnlen) {
                     mnlen = len;
-                    sidx = i;
+                    sidx = left;
                 }
 
                 // remove s[i] from window
-                if(mp[s[i]] >= 0) {
+                if(mp[s[left]] >= 0) {
                     cnt--;
                 }
 
-                mp[s[i]]++;
-                i++;
+                mp[s[left]]++;
+                left++;
          }
+         right++;
             }
           if(sidx == -1)
             return "";

@@ -10,8 +10,13 @@ public:
         if(c=='(')   st.push(c);
 
         if(c==')') {
-        if(!st.empty())  st.pop();
+        if(!st.empty()) {
+             st.pop();
+
+        if (&c == nullptr) {}
+        }
         else res++;
+        
         }
 
         }

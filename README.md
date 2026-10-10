@@ -78,6 +78,7 @@ My_problem solving skills
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachi05-pr/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi05-pr/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi05-pr/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -186,6 +187,7 @@ My_problem solving skills
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prachi05-pr/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi05-pr/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi05-pr/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prachi05-pr/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
@@ -234,6 +236,7 @@ My_problem solving skills
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi05-pr/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi05-pr/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -277,5 +280,6 @@ My_problem solving skills
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi05-pr/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi05-pr/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -79,6 +79,7 @@ My_problem solving skills
 | [0139-word-break](https://github.com/prachi05-pr/Leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachi05-pr/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi05-pr/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi05-pr/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -238,6 +239,7 @@ My_problem solving skills
 | [0020-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prachi05-pr/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prachi05-pr/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/prachi05-pr/Leetcode/tree/master/2390-removing-stars-from-a-string) |

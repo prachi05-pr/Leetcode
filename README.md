@@ -30,6 +30,7 @@ My_problem solving skills
 | [1352-product-of-the-last-k-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prachi05-pr/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prachi05-pr/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prachi05-pr/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachi05-pr/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachi05-pr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prachi05-pr/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -54,6 +55,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prachi05-pr/Leetcode/tree/master/0455-assign-cookies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prachi05-pr/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachi05-pr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
@@ -266,6 +268,7 @@ My_problem solving skills
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachi05-pr/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachi05-pr/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prachi05-pr/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prachi05-pr/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Geometry
 |  |
 | ------- |

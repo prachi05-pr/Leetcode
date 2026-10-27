@@ -152,6 +152,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/prachi05-pr/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/prachi05-pr/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/prachi05-pr/Leetcode/tree/master/0836-rectangle-overlap) |

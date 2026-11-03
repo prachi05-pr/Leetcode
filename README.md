@@ -73,6 +73,7 @@ My_problem solving skills
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachi05-pr/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/prachi05-pr/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/prachi05-pr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -118,6 +119,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachi05-pr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/prachi05-pr/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/prachi05-pr/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/prachi05-pr/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prachi05-pr/Leetcode/tree/master/0070-climbing-stairs) |
@@ -258,6 +260,7 @@ My_problem solving skills
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prachi05-pr/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/prachi05-pr/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/prachi05-pr/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Manacher
 |  |
